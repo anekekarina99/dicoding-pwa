@@ -1,0 +1,21 @@
+{
+  "name": "football-info",
+  "short_name": "FI",
+  "description": "football info",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "Scope": "/",
+  "gcm_sender_id": "196223211019",
+  "icons": [
+    
+      {
+        "src": "images/maskable_icon.png",
+        "sizes": "96x96",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+  ],
+  "splash_pages": null
+}
